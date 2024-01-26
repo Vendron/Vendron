@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- Talk with me on Discord:
- [Vendron#2001](https://discord.com/users/508455796783317002)
+Talk with me on Discord [@vendron](https://discord.com/users/508455796783317002)
+
+
