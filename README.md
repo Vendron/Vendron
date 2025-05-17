@@ -1,4 +1,4 @@
-### Hi there 👋
+![banner](https://github.com/user-attachments/assets/a1419f38-1b2e-4879-bf26-3aec63a5fa46)
 
 <!--
 **Vendron/Vendron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Talk with me on Discord [@vendron](https://discord.com/users/508455796783317002)
 
 
